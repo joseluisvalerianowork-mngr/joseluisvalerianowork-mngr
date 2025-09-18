@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 
 ### :zap:  Activity
-<!-- Start act -->
-
-<!-- en act-->
+<!--RECENT_ACTIVITY:start -->
+<!-- RECENT_ACTIVITY:last_update-->
 
 
 
